@@ -50,6 +50,7 @@ Ideal for automated issue generation, testing, or (un)leashing controlled issue 
 ## Disclaimer
 
 Use responsibly. Flooding repositories with issues may violate GitHub’s Terms of Service and can lead to account suspension. This tool is provided for educational or testing purposes only.
+(actually just use it on an alt xd no one cares about this type of stuff (probably))
 
 ---
 
